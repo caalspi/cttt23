@@ -1,0 +1,9 @@
+notes.md
+.vscode
+.vs
+obj/
+bin/
+cert.pem
+*.zip
+presentation.pptx
+~*.pptx

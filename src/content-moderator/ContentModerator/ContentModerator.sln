@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentModerator", "ContentModerator\ContentModerator.csproj", "{2584FB53-C090-4A05-8BF2-046EEE251DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2584FB53-C090-4A05-8BF2-046EEE251DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2584FB53-C090-4A05-8BF2-046EEE251DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2584FB53-C090-4A05-8BF2-046EEE251DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2584FB53-C090-4A05-8BF2-046EEE251DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {570E5562-6D73-429A-9BF2-21A5C06F390E}
+	EndGlobalSection
+EndGlobal
