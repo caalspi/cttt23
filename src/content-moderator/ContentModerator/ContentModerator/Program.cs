@@ -5,7 +5,7 @@ using System.Text;
 #region variables
 
 #region secrets
-var subscriptionKey = "eb721a8aa5684a5e937364d81992fbdd";
+var subscriptionKey = "<subscription_key>";
 #endregion
 
 var endpoint = "https://westeurope.api.cognitive.microsoft.com/";
